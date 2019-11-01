@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://st3.depositphotos.com/4590583/18366/i/1600/depositphotos_183666662-stock-photo-healthy-food-background-concept-healthy.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+#btn{
+    margin-left:50%;
+    transform: translate(-50%);
+    font-size: 1.5em;
+    color:white;
+    background-color: darkred;
+}
+#content{
+    padding-top: 10px;
+    margin-top:10px;
+    text-align: center;
+    margin-left: 50%;
+    transform: translate(-50%);
+    background-color: lightgray;
+}
